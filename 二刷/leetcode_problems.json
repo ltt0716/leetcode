@@ -102,7 +102,7 @@
     {
       "id": 56,
       "title": "合并区间",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "普通数组"
     },
@@ -190,7 +190,7 @@
     {
       "id": 142,
       "title": "环形链表 II",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "链表"
     },
@@ -332,7 +332,7 @@
     {
       "id": 114,
       "title": "二叉树展开为链表",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
@@ -390,7 +390,7 @@
     {
       "id": 208,
       "title": "实现 Trie (前缀树)",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "图论"
     }
@@ -457,7 +457,7 @@
     {
       "id": 35,
       "title": "搜索插入位置",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "二分查找"
     },
