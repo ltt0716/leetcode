@@ -262,7 +262,7 @@
     {
       "id": 94,
       "title": "二叉树的中序遍历",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "二叉树"
     },
@@ -485,7 +485,7 @@
     {
       "id": 153,
       "title": "寻找旋转排序数组中的最小值",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二分查找"
     },
