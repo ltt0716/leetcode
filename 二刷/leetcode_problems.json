@@ -47,7 +47,7 @@
     {
       "id": 42,
       "title": "接雨水",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "双指针"
     }
@@ -72,7 +72,7 @@
       "title": "滑动窗口最大值",
       "status": "undone",
       "difficulty": "困难",
-      "category": "字串"
+      "category": "滑动窗口"
     },
     {
       "id": 76,
