@@ -72,7 +72,7 @@
       "title": "滑动窗口最大值",
       "status": "undone",
       "difficulty": "困难",
-      "category": "滑动窗口"
+      "category": "字串"
     },
     {
       "id": 76,
@@ -353,7 +353,7 @@
     {
       "id": 236,
       "title": "二叉树的最近公共祖先",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
@@ -464,7 +464,7 @@
     {
       "id": 74,
       "title": "搜索二维矩阵",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二分查找"
     },
@@ -605,7 +605,7 @@
     {
       "id": 198,
       "title": "打家劫舍",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
@@ -675,7 +675,7 @@
     {
       "id": 5,
       "title": "最长回文子串",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
@@ -689,7 +689,7 @@
     {
       "id": 72,
       "title": "编辑距离",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     }
