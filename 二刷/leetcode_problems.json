@@ -70,7 +70,7 @@
     {
       "id": 239,
       "title": "滑动窗口最大值",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "滑动窗口"
     },
@@ -169,7 +169,7 @@
     {
       "id": 206,
       "title": "反转链表",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "链表"
     },
@@ -318,7 +318,7 @@
     {
       "id": 230,
       "title": "二叉搜索树中第 K 小的元素",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
@@ -441,7 +441,7 @@
     {
       "id": 131,
       "title": "分割回文串",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "回溯"
     },
@@ -522,7 +522,7 @@
     {
       "id": 739,
       "title": "每日温度",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "栈"
     },
@@ -682,7 +682,7 @@
     {
       "id": 1143,
       "title": "最长公共子序列",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
