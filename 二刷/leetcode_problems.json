@@ -176,7 +176,7 @@
     {
       "id": 234,
       "title": "回文链表",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "链表"
     },
@@ -283,7 +283,7 @@
     {
       "id": 101,
       "title": "对称二叉树",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "二叉树"
     },
@@ -360,7 +360,7 @@
     {
       "id": 124,
       "title": "二叉树中的最大路径和",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "二叉树"
     }
@@ -575,7 +575,7 @@
     {
       "id": 45,
       "title": "跳跃游戏 II",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "贪心算法"
     },
