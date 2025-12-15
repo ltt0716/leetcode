@@ -123,7 +123,7 @@
     {
       "id": 41,
       "title": "缺失的第一个正数",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "普通数组"
     }
@@ -582,7 +582,7 @@
     {
       "id": 763,
       "title": "划分字母区间",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "贪心算法"
     }
