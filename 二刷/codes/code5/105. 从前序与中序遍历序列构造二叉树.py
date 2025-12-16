@@ -12,7 +12,7 @@ class Solution:
 
         def dfs(pl,pr,il,ir):
 
-            if not pr<pl :
+            if pr<pl :
                 return None
             
             x=preorder[pl]
