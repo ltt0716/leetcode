@@ -290,7 +290,7 @@
     {
       "id": 543,
       "title": "二叉树的直径",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "二叉树"
     },
@@ -719,7 +719,7 @@
     {
       "id": 31,
       "title": "下一个排列",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "技巧"
     },
