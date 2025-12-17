@@ -146,7 +146,7 @@
     {
       "id": 48,
       "title": "旋转图像",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "矩阵"
     },
@@ -448,7 +448,7 @@
     {
       "id": 51,
       "title": "N 皇后",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "回溯"
     }
@@ -538,7 +538,7 @@
     {
       "id": 215,
       "title": "数组中的第 K 个最大元素",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "堆"
     },
