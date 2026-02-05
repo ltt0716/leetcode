@@ -17,7 +17,7 @@
     {
       "id": 128,
       "title": "最长连续序列",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "哈希"
     }
@@ -63,7 +63,7 @@
     {
       "id": 438,
       "title": "找到字符串中所有字母异位词",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "滑动窗口"
     },
@@ -304,7 +304,7 @@
     {
       "id": 108,
       "title": "将有序数组转换为二叉搜索树",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "二叉树"
     },
@@ -339,7 +339,7 @@
     {
       "id": 105,
       "title": "从前序与中序遍历序列构造二叉树",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
