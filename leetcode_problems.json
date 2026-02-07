@@ -311,7 +311,7 @@
     {
       "id": 98,
       "title": "验证二叉搜索树",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
