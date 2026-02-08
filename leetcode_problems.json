@@ -77,7 +77,7 @@
     {
       "id": 76,
       "title": "最小覆盖子串",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "滑动窗口"
     }
@@ -311,21 +311,21 @@
     {
       "id": 98,
       "title": "验证二叉搜索树",
-      "status": "done",
+      "status": "undone",
       "difficulty": "中等",
       "category": "二叉树"
     },
     {
       "id": 230,
       "title": "二叉搜索树中第 K 小的元素",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
     {
       "id": 199,
       "title": "二叉树的右视图",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
