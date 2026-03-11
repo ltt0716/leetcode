@@ -1,16 +1,31 @@
-import heapq
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        heap=[]
+        def quickselect(l,r,target):
+            if l==r:
+                return nums[l]
+            
+            privot=nums[r]
 
-        for num in nums:
-            if len(heap)<k:
-                heapq.heappush(heap,-num)
+            i,j=l-1,r+1
+
+            while i<j:
+                i+=1
+                while nums[i]<privot:
+                    i+=1
+
+                j-=1
+                while nums[j]>privot:
+                    j-=1
+
+                if i<j:
+                    nums[i],nums[j]=nums[j],nums[i]
+                   
+            if j==target:
+                return nums[j]
+            elif j<target:
+               return quickselect(j+1,r,target)
             else:
-                if  num>=-heap[-1]:
-                    heapq.heappushpop(heap,-num)
-        
-        while len(heap)!=1:
-            heapq.heappop(heap)
-
-        return heap[0]
+               return  quickselect(l,j-1,target)
+            
+        target=len(nums)-k
+        return quickselect(0,len(nums)-1,target)

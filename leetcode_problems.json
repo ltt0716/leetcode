@@ -26,7 +26,7 @@
     {
       "id": 283,
       "title": "移动零",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "双指针"
     },
@@ -545,7 +545,7 @@
     {
       "id": 347,
       "title": "前 K 个高频元素",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "堆"
     },
