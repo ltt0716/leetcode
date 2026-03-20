@@ -427,7 +427,7 @@
     {
       "id": 22,
       "title": "括号生成",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "回溯"
     },
