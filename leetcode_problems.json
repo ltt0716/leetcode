@@ -70,7 +70,7 @@
     {
       "id": 239,
       "title": "滑动窗口最大值",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "滑动窗口"
     },
@@ -297,7 +297,7 @@
     {
       "id": 102,
       "title": "二叉树的层序遍历",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
@@ -311,7 +311,7 @@
     {
       "id": 98,
       "title": "验证二叉搜索树",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "二叉树"
     },
@@ -492,7 +492,7 @@
     {
       "id": 4,
       "title": "寻找两个正序数组的中位数",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "二分查找"
     }
@@ -522,14 +522,14 @@
     {
       "id": 739,
       "title": "每日温度",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "栈"
     },
     {
       "id": 84,
       "title": "柱状图中最大的矩形",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "栈"
     }
@@ -605,14 +605,14 @@
     {
       "id": 198,
       "title": "打家劫舍",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
     {
       "id": 279,
       "title": "完全平方数",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
@@ -633,7 +633,7 @@
     {
       "id": 300,
       "title": "最长递增子序列",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
