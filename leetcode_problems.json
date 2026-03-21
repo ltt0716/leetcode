@@ -552,7 +552,7 @@
     {
       "id": 295,
       "title": "数据流的中位数",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "堆"
     }
@@ -568,7 +568,7 @@
     {
       "id": 55,
       "title": "跳跃游戏",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "贪心算法"
     },
