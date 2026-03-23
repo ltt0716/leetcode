@@ -56,7 +56,7 @@
     {
       "id": 3,
       "title": "无重复字符的最长子串",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "滑动窗口"
     },
@@ -123,7 +123,7 @@
     {
       "id": 41,
       "title": "缺失的第一个正数",
-      "status": "done",
+      "status": "undone",
       "difficulty": "困难",
       "category": "普通数组"
     }
@@ -552,7 +552,7 @@
     {
       "id": 295,
       "title": "数据流的中位数",
-      "status": "done",
+      "status": "undone",
       "difficulty": "困难",
       "category": "堆"
     }
@@ -568,7 +568,7 @@
     {
       "id": 55,
       "title": "跳跃游戏",
-      "status": "done",
+      "status": "undone",
       "difficulty": "中等",
       "category": "贪心算法"
     },
