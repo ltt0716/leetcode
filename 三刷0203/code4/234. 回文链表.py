@@ -10,7 +10,7 @@ class Solution:
         s1=""
 
         while h1:
-            s1+=h1.val
+            s1+=str(h1.val)
             h1=h1.next
         
         h2=head
@@ -21,4 +21,10 @@ class Solution:
             h2.next=pre
             pre=h2
             h2=nxt
+        
+        while pre:
+            s2+=str(pre.val)
+            pre=pre.next
+        
+        return s1==s2
         

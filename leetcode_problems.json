@@ -132,7 +132,7 @@
     {
       "id": 73,
       "title": "矩阵置零",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "矩阵"
     },
@@ -675,7 +675,7 @@
     {
       "id": 5,
       "title": "最长回文子串",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
@@ -698,7 +698,7 @@
     {
       "id": 136,
       "title": "只出现一次的数字",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "技巧"
     },
