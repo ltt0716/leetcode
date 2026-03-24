@@ -116,7 +116,7 @@
     {
       "id": 238,
       "title": "除自身以外数组的乘积",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "普通数组"
     },
@@ -132,7 +132,7 @@
     {
       "id": 73,
       "title": "矩阵置零",
-      "status": "done",
+      "status": "undone",
       "difficulty": "中等",
       "category": "矩阵"
     },
@@ -232,7 +232,7 @@
     {
       "id": 138,
       "title": "随机链表的复制",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "链表"
     },
@@ -515,7 +515,7 @@
     {
       "id": 394,
       "title": "字符串解码",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "栈"
     },
@@ -575,7 +575,7 @@
     {
       "id": 45,
       "title": "跳跃游戏 II",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "贪心算法"
     },
@@ -675,7 +675,7 @@
     {
       "id": 5,
       "title": "最长回文子串",
-      "status": "done",
+      "status": "undone",
       "difficulty": "中等",
       "category": "动态规划"
     },
@@ -698,7 +698,7 @@
     {
       "id": 136,
       "title": "只出现一次的数字",
-      "status": "done",
+      "status": "undone",
       "difficulty": "简单",
       "category": "技巧"
     },
