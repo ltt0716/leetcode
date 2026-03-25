@@ -204,7 +204,7 @@
     {
       "id": 2,
       "title": "两数相加",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "链表"
     },
@@ -448,7 +448,7 @@
     {
       "id": 51,
       "title": "N 皇后",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "回溯"
     }
@@ -561,7 +561,7 @@
     {
       "id": 121,
       "title": "买卖股票的最佳时机",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "贪心算法"
     },
@@ -626,7 +626,7 @@
     {
       "id": 139,
       "title": "单词拆分",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
