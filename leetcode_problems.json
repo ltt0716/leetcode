@@ -10,7 +10,7 @@
     {
       "id": 49,
       "title": "字母异位词分组",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "哈希"
     },
@@ -139,7 +139,7 @@
     {
       "id": 54,
       "title": "螺旋矩阵",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "矩阵"
     },
@@ -501,14 +501,14 @@
     {
       "id": 20,
       "title": "有效的括号",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "栈"
     },
     {
       "id": 155,
       "title": "最小栈",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "栈"
     },
@@ -568,7 +568,7 @@
     {
       "id": 55,
       "title": "跳跃游戏",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "贪心算法"
     },
@@ -598,7 +598,7 @@
     {
       "id": 118,
       "title": "杨辉三角",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "动态规划"
     },
