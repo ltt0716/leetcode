@@ -17,4 +17,5 @@ class Solution:
             if left and right:
                 return root
             return left or right
-        return dfs(root)
+
+        return dfs(root,p,q)

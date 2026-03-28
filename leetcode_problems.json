@@ -95,7 +95,7 @@
     {
       "id": 53,
       "title": "最大子数组和",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "普通数组"
     },
@@ -211,7 +211,7 @@
     {
       "id": 19,
       "title": "删除链表的倒数第 N 个结点",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "链表"
     },
@@ -269,7 +269,7 @@
     {
       "id": 104,
       "title": "二叉树的最大深度",
-      "status": "undone",
+      "status": "done",
       "difficulty": "简单",
       "category": "二叉树"
     },
@@ -406,7 +406,7 @@
     {
       "id": 78,
       "title": "子集",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "回溯"
     },
@@ -552,7 +552,7 @@
     {
       "id": 295,
       "title": "数据流的中位数",
-      "status": "undone",
+      "status": "done",
       "difficulty": "困难",
       "category": "堆"
     }
@@ -640,7 +640,7 @@
     {
       "id": 152,
       "title": "乘积最大子数组",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
@@ -661,7 +661,7 @@
     {
       "id": 62,
       "title": "不同路径",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "动态规划"
     },
