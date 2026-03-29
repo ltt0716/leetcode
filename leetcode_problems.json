@@ -413,7 +413,7 @@
     {
       "id": 17,
       "title": "电话号码的字母组合",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "回溯"
     },
@@ -434,7 +434,7 @@
     {
       "id": 79,
       "title": "单词搜索",
-      "status": "undone",
+      "status": "done",
       "difficulty": "中等",
       "category": "回溯"
     },
